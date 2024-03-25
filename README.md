@@ -131,5 +131,8 @@ We experiment with several machine learning models, including:
   <li>Random Forest</li>
   <li>Gradient Boosting</li>
   <li>Neural Networks</li>
-</ul></br>
+</ul>
 These models are implemented using libraries such as scikit-learn
+
+## Conclusion
+In conclusion, our project on customer churn analysis has shown that KNN classifier model has the highest recall and f1-score among all the models we tested. It correctly identifies a higher percentage of churn customers and has a good balance of precision and recall. The Decision Tree and Random Forest models also perform well, with similar accuracy and f1-score to the KNN classifier. These models have slightly lower recall for churn customers compared to KNN. By identifying factors that drive customer churn, our analysis provides insights for developing targeted retention strategies. It enables companies to take proactive measures to prevent customer churn, which can lead to increased customer loyalty and revenue. Our project has provided a competitive advantage by understanding customer behavior better than competitors. Overall, our analysis of customer churn can help businesses make informed decisions to retain customers and increase their profitability.
